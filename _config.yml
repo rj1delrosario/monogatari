@@ -6,15 +6,15 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Himbak
-tagline:          'Life in Japan'
-description:      'Life in Japan'
-url:              https://himbak.com
+title:            物語
+tagline:          ''
+description:      ''
+url:              https://monogatari.himbak.com
 image:            'public/image/site.jpg'
 
 author:
-  name:           'Rowel del Rosario'
-  url:            https://himbak.com
+  name:           'RJ1 del Rosario'
+  url:            https://monogatari.himbak.com
 
 
 plugins:
@@ -25,4 +25,4 @@ paginate: 5
 version:          1.0.0
 
 github:
-  repo:           https://github.com/roweldelrosario/roweldelrosario.github.io
+  repo:           https://github.com/rj1delrosario/monogatari
